@@ -17,7 +17,7 @@ Setting too low of a value for _P_ results on the vehicle not turning enough in 
 
 _I:_
 
-When I set _I_ to 0, honestly I didn't nnotice much difference in behavior. The purpose of _I_ is to compensate for an inherent steering bias in the vehicle, so this leads me to conclude that the vehicle has very little or no steering bias.
+When I set _I_ to 0, honestly I didn't notice much difference in behavior. The purpose of _I_ is to compensate for an inherent steering bias in the vehicle, so this leads me to conclude that the vehicle has very little or no steering bias.
 
 When I set _I_ to a significantly high value, I noticed the vehicle swerves a lot, since the _I_ term causes the vehicle to overcompensate for the CTE (over time).
 
